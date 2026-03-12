@@ -131,4 +131,4 @@ Files of interest
 
 Next steps
 
-- I can tighten the IAM policy, add continuation tokens for pagination, or split listing modes into separate Lambda functions if you'd like — tell me which and I will implement it.
+- Add an event to sync CW logs to S3 bucket.
